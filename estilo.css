@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+        background-color: rgba(33, 33, 33, 0);
+      }
+
+      .banner {
+        background-color:rgb(39, 50, 137, 1);
+      }
+
+      .subasta {
+        margin-top: 2.5em !important;
+      }
+
+      .titulo {
+        font-size: 2rem;
+        color: #fff;
+        text-align: center;
+        letter-spacing: 1pt;
+        /* font-weight: 600; */
+        font-family: "Poppins", sans-serif;
+        /*margin-left: 0.1em;*/
+      }
+
+      .raqueta {
+        font-size: 1.5rem;
+        color: yellow;
+        text-align: center;
+        letter-spacing: 1pt;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        margin-top: 1.55em;
+      }
+
+      .whatsapp {
+        /*margin-top: 0.5em;*/
+        height: 37px;
+        width: 37px;
+        margin-left: 6em;
+      }
+
+      .celular {
+        /*margin-top: 0.5em;*/
+        margin-right: 3em;
+        font-size: 1.57rem;
+        color: #fff;
+        text-align: center;
+        /* font-weight: 600; */
+        font-family: "Poppins", sans-serif;
+      }
+
+      .siguenos {
+        font-size: 2.5rem;
+        color: yellow;
+        text-align: center;
+        letter-spacing: 1pt;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        margin-top: 0.8em;
+      }
+
+      .virtual {
+        display: block;
+      }
+
+      .instagram {
+        margin-top: 0.9em;
+        height: 37px;
+        width: 37px;
+        margin-left: 2.5em;
+      }
+
+      .facebook {
+        margin-top: 0.9em;
+        height: 37px;
+        width: 37px;
+        margin-right: -3em;
+        margin-left: -1.3em;
+      }
+
+      .redes {
+        margin-right: 0.1em;
+        margin-top: 0.37em;
+        font-size: 1.77rem;
+        color: #fff;
+        text-align: center;
+        /* font-weight: 600; */
+        font-family: "Poppins", sans-serif;
+      }
+
+      p.redes {
+        margin-left: -2em;
+        margin-right: 1.5em;
+      }
+
+      .date {
+        /*margin-top: 0.3em;*/
+        /* margin: 0 auto; */
+        display: block;
+        font-size: 2rem;
+        text-align: center;
+        color: white;
+        /* font-weight: 600; */
+        font-family: "Poppins", sans-serif;
+      }
+
+      .clock {
+       /*  margin: 0 auto; */
+        display: block;
+        font-size: 2rem;
+        text-align: center;
+        color: white;
+        /* font-weight: 600; */
+        font-family: "Poppins", sans-serif;
+      }
+
+      .reloj {
+        margin-top: 2em !important;
+      }
+
+      .logo {
+        background-color:rgb(255, 255, 255, 1);
+      }
+
+      .imglogo {
+        width: 100%;
+        margin-top: 2em !important;
+        margin-left: -0.4em;
+      }
